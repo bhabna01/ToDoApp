@@ -51,13 +51,13 @@ This is a simple To-Do application built using the Laravel framework. The app al
 
 4. **Generate the application key**
      
-     php artisan key:generate 
+        php artisan key:generate 
 
 5. **Run migrations**
      
     To create the necessary database tables, run:
       
-      php artisan migrate
+        php artisan migrate
     
 6. **Run the application**
       
